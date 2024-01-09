@@ -20,4 +20,5 @@ add chat_id
               pkg install termux-api
               pip install -r requirements.txt
               
-              
+# BUY ME COFHI
+bit coin adderess =: bc1qfng3pyqde9q62mdxrtlxe47fwtzmmv9wg8t7wc 
